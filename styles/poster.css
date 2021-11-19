@@ -36,13 +36,13 @@ body {
 }
 .greenbox {
     position: absolute;
-    width: 300px;
-    height: 800px;
+    width: 865px;
+    height: 1100px;
     z-index: 2;
     opacity: 0.9;
-    background: rgb(152, 211, 152);
-    top: 0px;
-    left: 200px;
+    background: rgb(255, 123, 0);
+    top: 55px;
+    left: 90px;
 }
 .goldbox {
     position: absolute;
