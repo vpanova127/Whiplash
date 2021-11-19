@@ -68,8 +68,9 @@ body {
 }
 
 .stick img {
-    width: 50%;
     display: flex;
     margin: 1%;
     box-shadow: 10px 10px 10px rgb(255, 123, 0);
+    top: 00px;
+    left: 1900px;
 }
