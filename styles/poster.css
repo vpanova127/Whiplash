@@ -29,7 +29,7 @@ body {
     border: solid;
     border-style: outset;
     border-color: white;
-    border-width: 2px;
+    border-width: 15px;
     margin-top: 30px;
     margin-left: 20px;
     margin-bottom: 30px;
@@ -45,6 +45,7 @@ body {
     background: rgb(255, 123, 0);
     top: 55px;
     left: 90px;
+    border-radius: 15px;
 }
 .goldbox {
     position: absolute;
