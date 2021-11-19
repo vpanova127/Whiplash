@@ -74,3 +74,7 @@ body {
     z-index: 3;
     width: 1100px;
 }
+
+.stick img:hover {
+    filter: drop-shadow(10px 10px 5px rgb(0, 0, 0));
+}
