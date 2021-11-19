@@ -78,3 +78,7 @@ body {
     z-index: 4;
     width: 150px;
 }
+
+.whiplash {
+    z-index: 5;
+}
