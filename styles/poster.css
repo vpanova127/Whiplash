@@ -17,3 +17,10 @@ h2 {
     font-size: 27px;
     margin: 20px;
 }
+h1:hover {
+    color: white;
+    filter: blur(0px);
+    text-shadow: 10px 10px 5px rgb(0, 0, 0);
+    transition: all 1s;
+    font-size: 12VW;
+}
