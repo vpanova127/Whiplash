@@ -12,12 +12,14 @@
     z-index: 1;
 }
 .greenbox {
+    position: absolute;
     width: 300px;
     height: 800px;
     z-index: 2;
     opacity: 0.9;
 }
 .goldbox {
+    position: absolute;
     width: 700px;
     height: 450px;
     z-index: 3;
