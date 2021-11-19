@@ -47,6 +47,9 @@ body {
     left: 135px;
     border-radius: 100px;
 }
+.greenbox :hover {
+    filter: brightness(110px);
+}
 .goldbox {
     position: absolute;
     width: 700px;
