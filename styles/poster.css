@@ -36,8 +36,8 @@ body {
 }
 .greenbox {
     position: absolute;
-    width: 865px;
-    height: 1100px;
+    width: 1225px;
+    height: 1800px;
     z-index: 2;
     opacity: 0.9;
     background: rgb(255, 123, 0);
@@ -50,6 +50,6 @@ body {
     height: 450px;
     z-index: 3;
     background: gold;
-    top: 400px;
-    left: 1200px;
+    top: 00px;
+    left: 1900px;
 }
