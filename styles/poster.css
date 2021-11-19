@@ -34,7 +34,7 @@ body {
     margin-left: 20px;
     margin-bottom: 30px;
     z-index: 1;
-    background: #b3a788;
+    background: black;
 }
 .greenbox {
     position: absolute;
@@ -80,9 +80,9 @@ body {
 }
 
 .man img {
-    top: -1400px;
-    left: -7px;
+    top: -2070px;
+    left: 900px;
     position: relative;
     z-index: 4;
-    width: 1100px;
+    width: 150px;
 }
