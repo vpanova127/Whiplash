@@ -19,8 +19,8 @@
     height: 800px;
     z-index: 2;
     opacity: 0.9;
-    background: green;
-    top: 150px;
+    background: rgb(152, 211, 152);
+    top: 0px;
     left: 200px;
 }
 .goldbox {
