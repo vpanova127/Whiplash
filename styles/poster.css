@@ -20,6 +20,8 @@
     z-index: 2;
     opacity: 0.9;
     background: green;
+    top: 150px;
+    left: 200px;
 }
 .goldbox {
     position: absolute;
@@ -27,4 +29,6 @@
     height: 450px;
     z-index: 3;
     background: gold;
+    top: 400px;
+    left: 50px;
 }
