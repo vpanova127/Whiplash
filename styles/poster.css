@@ -29,6 +29,7 @@ body {
     border: solid;
     border-style: outset;
     border-color: white;
+    border-width: 2px;
     margin-top: 30px;
     margin-left: 20px;
     margin-bottom: 30px;
