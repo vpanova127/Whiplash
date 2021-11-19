@@ -80,5 +80,10 @@ body {
 }
 
 .whiplash {
-    z-index: -1;
+    z-index: 5;
+    text-align: center;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10VW;
+    margin: 10px;
 }
