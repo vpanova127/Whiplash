@@ -57,15 +57,7 @@ body {
 }
 
 
-.goldbox {
-    position: absolute;
-    width: 700px;
-    height: 450px;
-    z-index: 3;
-    background: gold;
-    top: 00px;
-    left: 1900px;
-}
+
 
 .stick img {
     top: -1400px;
