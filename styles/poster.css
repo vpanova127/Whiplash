@@ -48,7 +48,7 @@ body {
     border-radius: 100px;
 }
 .greenbox :hover {
-    filter: brightness(110px);
+    filter: drop-shadow(rgb(255, 102, 0))
 }
 .goldbox {
     position: absolute;
