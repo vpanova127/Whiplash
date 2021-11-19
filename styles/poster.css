@@ -46,7 +46,7 @@ body {
     top: 195px;
     left: 135px;
     border-radius: 100px;
-    animation: width-animation2 1s infinite alternate;
+    animation: width-animation2 0.5s infinite alternate;
 }
 @keyframes width-animation2 {
     from {
@@ -55,6 +55,11 @@ body {
         width: 1115px;
     }
 }
+
+@keyframes {
+
+}
+
 .goldbox {
     position: absolute;
     width: 700px;
