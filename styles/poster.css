@@ -77,7 +77,7 @@ body {
 }
 
 .whiplash {
-    position: absolute;
+    position: relative;
     top: -1050px;
     left: -1000px;
     z-index: 5;
