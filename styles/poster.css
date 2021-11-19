@@ -68,9 +68,9 @@ body {
 }
 
 .stick img {
-    top: -1500px;
-    left: -60px;
+    top: -1400px;
+    left: -7px;
     position: relative;
     z-index: 3;
-    width: 180px;
+    width: 1100px;
 }
